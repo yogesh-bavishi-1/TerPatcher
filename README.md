@@ -1,0 +1,2 @@
+# TerPatcher
+I saw `termux` as content provider and it's root directory can be mounted in `mix` file manager.  And there is an app called `LuckyPatcher` that decompiles and recompiles apps with patched like 'remove g-ads' or 'remove in-app purchases' etc. So total sum idea is to create an app that will insert a patch that patch will share patched app's root directory as content provider. (simple words: I wanna get into root, without root, thanks!)
