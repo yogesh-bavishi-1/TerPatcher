@@ -8,3 +8,6 @@ I saw `termux` as content provider and it's root directory can be mounted in `mi
 **use cases**:
 - I have heard that there exists some software that can decrypt the `.db` files of whatsapp if we have root access(I guess they are using some key from the /data/data/com.whataspp) directory.
 - Most apps have their top secrets in `/data/data/app_name`(🤔👽️)
+
+
+BTW.. I found one app that does the same ... google it.
