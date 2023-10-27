@@ -10,4 +10,4 @@ I saw `termux` as content provider and it's root directory can be mounted in `mi
 - Most apps have their top secrets in `/data/data/app_name`(🤔👽️)
 
 
-BTW.. I found one app that does the same ... google it.
+BTW.. I found one app that does the same ... google it. search : Accessible data directory - App Cloner appcloner[dot]blog
